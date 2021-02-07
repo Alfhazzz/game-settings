@@ -1,2 +1,3 @@
 # game-settings
-no need its just for me
+no need its just for myself
+
